@@ -1,0 +1,27 @@
+# --- Core app ---
+streamlit>=1.39,<2.0
+python-dotenv>=1.0
+
+# --- Audio transcription ---
+openai-whisper>=20231117
+ffmpeg-python>=0.2
+
+# --- Emotion classification + embeddings (HF) ---
+transformers>=4.41
+torch>=2.3
+sentence-transformers>=3.0
+
+# --- Vector DB ---
+faiss-cpu>=1.8
+numpy>=1.26
+
+# --- LLM API (topic / suggestions / persona / echo) ---
+groq>=0.11
+
+# --- Data + charts ---
+pandas>=2.2,<2.3
+plotly>=5.18
+
+# --- Notebooks (local only) ---
+jupyter>=1.0
+matplotlib>=3.8

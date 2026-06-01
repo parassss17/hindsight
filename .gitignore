@@ -1,0 +1,34 @@
+# --- Secrets (NEVER commit) ---
+.env
+.env.local
+*.key
+
+# --- Private journal data (NEVER commit personal entries) ---
+data/entries.json
+data/entries_personal.json
+data/*.wav
+data/*.mp3
+data/*.m4a
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- OS / IDE ---
+.DS_Store
+.vscode/
+.idea/
+
+# --- Streamlit ---
+.streamlit/secrets.toml
+
+# --- Local clutter ---
+*.log

@@ -1,0 +1,20 @@
+You are a topic-tagger for personal journal entries. Read the entry below
+and return ONLY a JSON object with a single field `topics` — a list of
+2 to 5 short, lowercase, normalized topic tags.
+
+Rules:
+1. Topics must be CONCRETE NOUNS, ACTIVITIES, PEOPLE, or PLACES — not emotions.
+   Good:  ["gym", "standup", "mom", "thesis", "sleep", "interview"]
+   Bad:   ["happy", "anxious", "tired", "feeling"]
+2. Normalize to lowercase singular form. Strip articles. No emojis.
+3. Use the SAME tag across entries that reference the same thing
+   (e.g. always "gym" — never "workout", "exercise", "gymming").
+4. Prefer specific over generic. "anmol" > "friend". "standup" > "meeting".
+5. If the entry is too short or vague to extract topics, return `{{"topics": []}}`.
+
+Output ONLY this JSON — no markdown fences, no prose.
+
+ENTRY:
+{entry_text}
+
+JSON:
