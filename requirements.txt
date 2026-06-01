@@ -1,5 +1,6 @@
 # --- Core app ---
 streamlit>=1.39,<2.0
+streamlit-mic-recorder>=0.0.8
 python-dotenv>=1.0
 
 # --- Audio transcription ---

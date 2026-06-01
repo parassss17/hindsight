@@ -70,24 +70,44 @@ with tab_today:
     col_a, col_b = st.columns(2)
 
     with col_a:
-        st.markdown("**🎤 Record / Upload voice**")
-        # Streamlit < 1.31 lacks `st.audio_input` (in-browser recording).
-        # If unavailable, fall back to a file-upload widget so the deployed
-        # app still works on older Streamlit versions.
-        if hasattr(st, "audio_input"):
-            audio = st.audio_input("Tap to record your day", key="rec")
-        else:
-            audio = st.file_uploader(
-                "Upload an audio file (wav / mp3 / m4a / ogg)",
-                type=["wav", "mp3", "m4a", "ogg", "webm"],
-                key="rec",
+        st.markdown("**🎤 Record (in-browser)**")
+
+        audio_bytes: bytes | None = None
+
+        # --- preferred path: streamlit-mic-recorder (works on any Streamlit) ---
+        try:
+            from streamlit_mic_recorder import mic_recorder
+            rec = mic_recorder(
+                start_prompt="🎤 Tap to record",
+                stop_prompt="⏹ Stop recording",
+                just_once=True,
+                use_container_width=True,
+                key="mic",
             )
+            if rec and rec.get("bytes"):
+                audio_bytes = rec["bytes"]
+        except Exception:
+            # --- fallback 1: native st.audio_input (Streamlit >= 1.31) ---
+            if hasattr(st, "audio_input"):
+                audio = st.audio_input("Tap to record your day", key="rec_native")
+                if audio is not None:
+                    audio_bytes = audio.getvalue()
+            # --- fallback 2: file uploader (works everywhere) ---
+            else:
+                up = st.file_uploader(
+                    "Upload an audio file (wav / mp3 / m4a / ogg)",
+                    type=["wav", "mp3", "m4a", "ogg", "webm"],
+                    key="rec_upload",
+                )
+                if up is not None:
+                    audio_bytes = up.getvalue()
+
         rec_save = st.button("Save voice entry", type="primary",
-                              use_container_width=True, disabled=audio is None)
-        if rec_save and audio is not None:
+                              use_container_width=True,
+                              disabled=audio_bytes is None)
+        if rec_save and audio_bytes:
             with st.spinner("Transcribing + tagging…"):
-                bytes_ = audio.getvalue()
-                entry = pipeline.add_entry(audio_bytes=bytes_)
+                entry = pipeline.add_entry(audio_bytes=audio_bytes)
             st.success(f"Saved entry {entry['id']}.")
             st.write("**Transcript:**", entry["text"])
             st.write("**Topics:**", ", ".join(entry["topics"]) or "—")
