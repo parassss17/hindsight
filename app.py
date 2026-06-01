@@ -80,8 +80,9 @@ with tab_today:
             rec = mic_recorder(
                 start_prompt="🎤 Tap to record",
                 stop_prompt="⏹ Stop recording",
-                just_once=True,
+                just_once=False,        # tap again to re-record
                 use_container_width=True,
+                format="wav",
                 key="mic",
             )
             if rec and rec.get("bytes"):
@@ -101,6 +102,11 @@ with tab_today:
                 )
                 if up is not None:
                     audio_bytes = up.getvalue()
+
+        # 🔊 Playback — let the user actually LISTEN to what they recorded
+        if audio_bytes:
+            st.audio(audio_bytes, format="audio/wav")
+            st.caption("🔁 Don't like it? Just tap the record button again to redo.")
 
         rec_save = st.button("Save voice entry", type="primary",
                               use_container_width=True,
