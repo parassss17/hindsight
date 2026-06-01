@@ -1,0 +1,722 @@
+[
+  {
+    "id": "4a2b9025-f3d",
+    "timestamp": "2026-05-03T21:25:00+00:00",
+    "source": "text",
+    "text": "I'm so done with today, had that super long standup meeting this morning and I just couldn't focus after that. Been trying to work on my AlphaCast project but my mind keeps wandering. Anmol's been bugging me about the Premortem report and I still haven't started on it. My thesis is also due soon and I'm getting really anxious about it. I skipped the gym today because I just didn't have the energy, been running on coffee fumes all day. Mom called me this morning and I had to pretend everything's fine, didn't want to worry her. Now I just want to go home and sleep, but I know I won't be able to, not with all these deadlines looming over me. Ugh, why does it have to be so hard?",
+    "emotions": {
+      "fear": 0.9083812236785889,
+      "sadness": 0.03900514915585518,
+      "neutral": 0.020700903609395027,
+      "surprise": 0.0153190391138196,
+      "anger": 0.011813575401902199,
+      "joy": 0.0026086783036589622,
+      "disgust": 0.002171493135392666
+    },
+    "topics": [
+      "standup",
+      "alphacast",
+      "anmol",
+      "thesis",
+      "gym"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "e27e90c9-53b",
+    "timestamp": "2026-05-04T21:34:00+00:00",
+    "source": "voice",
+    "text": "I just got back from the gym and I'm feeling so pumped, had a great session, did my usual standup routine and even managed to squeeze in some extra reps. Anmol was there, we had a good chat about our AlphaCast project, I think we're making some real progress on that. Been putting in some long hours but it's all worth it, mom's been on my case about getting enough sleep but I'm running on coffee fumes and adrenaline right now. Thesis is also coming along, did a premortem on my code and found some potential bugs, so that's a relief. Feeling really productive, like I can take on anything, bring it on.",
+    "emotions": {
+      "joy": 0.8619686961174011,
+      "neutral": 0.08622734993696213,
+      "surprise": 0.020926954224705696,
+      "anger": 0.019932841882109642,
+      "sadness": 0.005775750149041414,
+      "disgust": 0.004077538847923279,
+      "fear": 0.001090925419703126
+    },
+    "topics": [
+      "gym",
+      "standup",
+      "anmol",
+      "alphacast",
+      "thesis"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "e63f7ce0-c0a",
+    "timestamp": "2026-05-05T21:58:00+00:00",
+    "source": "voice",
+    "text": "I woke up pretty early, got some coffee in me, and headed to the gym for a bit. Didn't do much, just a casual standup session to get the blood flowing. Afterwards, I met up with Anmol to discuss our AlphaCast project, we're trying to finalize the Premortem report for our thesis. Nothing too exciting happened, just the usual coding and debugging. I did manage to finish that one task that was bothering me though. My mom called to check in, asked about my sleep and if I'm eating properly. I told her I'm doing alright, just the usual stress about finishing up the thesis on time. Now I'm just taking it easy, might grab a snack or something before heading back to work.",
+    "emotions": {
+      "neutral": 0.6776086091995239,
+      "joy": 0.17365498840808868,
+      "sadness": 0.05044024437665939,
+      "fear": 0.040768079459667206,
+      "anger": 0.023844769224524498,
+      "disgust": 0.02095736376941204,
+      "surprise": 0.012725988402962685
+    },
+    "topics": [
+      "gym",
+      "standup",
+      "anmol",
+      "thesis",
+      "mom"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "845aa075-961",
+    "timestamp": "2026-05-06T21:27:00+00:00",
+    "source": "voice",
+    "text": "I'm feeling so pumped after that gym session this evening, just got back and I was able to crack that one coding issue I'd been struggling with for hours on the AlphaCast project. Had a standup with Anmol earlier and we're on track to meet our thesis deadline, which is a huge relief. Mom called to check in and I could tell she's excited for me to graduate, can't wait to make her proud. I've been using the Premortem technique to anticipate potential roadblocks and I think it's really helping me stay focused. Now I'm gonna grab a cup of coffee and keep coding, feeling like I can take on anything. Sleep can wait, I'm on a roll.",
+    "emotions": {
+      "joy": 0.9633664488792419,
+      "surprise": 0.01525887195020914,
+      "neutral": 0.013887924142181873,
+      "anger": 0.0042237709276378155,
+      "sadness": 0.00172738719265908,
+      "disgust": 0.0008801427320577204,
+      "fear": 0.0006555096479132771
+    },
+    "topics": [
+      "gym",
+      "alphacast",
+      "standup",
+      "anmol",
+      "mom"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "e2e3302a-40c",
+    "timestamp": "2026-05-07T21:35:00+00:00",
+    "source": "voice",
+    "text": "I'm so done with today, had that super long standup meeting this morning and I just couldn't focus after that. Been staring at my AlphaCast project code for hours but nothing's making sense. Anmol's been bugging me about the Premortem report and I still haven't started on it. My thesis is also due soon and I'm getting anxious just thinking about it. Mom called me this morning and I didn't pick up, didn't know what to tell her, didn't want to lie that everything's fine. I really need to get my sleep schedule back on track, been running on coffee fumes all day. I was thinking of heading to the gym later to clear my head, but honestly, I don't know if I have the energy for it. Just feel so overwhelmed right now.",
+    "emotions": {
+      "fear": 0.9536265134811401,
+      "sadness": 0.015426628291606903,
+      "neutral": 0.012990845367312431,
+      "surprise": 0.008667165413498878,
+      "anger": 0.00598825654014945,
+      "joy": 0.0016982841771095991,
+      "disgust": 0.0016022983472794294
+    },
+    "topics": [
+      "standup",
+      "alphacast",
+      "anmol",
+      "thesis",
+      "gym"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "0549ae36-2f3",
+    "timestamp": "2026-05-08T21:07:00+00:00",
+    "source": "text",
+    "text": "I'm so done with today, stayed up till 3 am working on the AlphaCast project and now I'm running on coffee fumes. Didn't even get to hit the gym this morning, was supposed to meet Anmol for a standup but had to skip it. Mom's been calling nonstop, asking about my thesis and I just don't have the energy to deal with it. We had a premortem meeting for the project and honestly, it was just a reminder of all the things that could go wrong. I'm exhausted, my brain's mush, and all I want to do is sleep. But no, I've got a ton of work still to do and not enough coffee to get me through it.",
+    "emotions": {
+      "sadness": 0.7952311635017395,
+      "neutral": 0.1189783364534378,
+      "disgust": 0.030199412256479263,
+      "surprise": 0.02390199713408947,
+      "anger": 0.018531085923314095,
+      "fear": 0.009818529710173607,
+      "joy": 0.0033394107595086098
+    },
+    "topics": [
+      "alphacast project",
+      "gym",
+      "anmol",
+      "standup",
+      "mom"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "1afb87a1-cc0",
+    "timestamp": "2026-05-09T21:37:00+00:00",
+    "source": "text",
+    "text": "Just got back from the gym, feeling pretty relaxed. Had a standup meeting with Anmol earlier to discuss our AlphaCast project, we're making decent progress. Been putting off my thesis for a while now, but I guess I'll get to it eventually. Mom called me earlier, just checking in, reminded me to get some sleep. I've been having way too much coffee lately. Did some coding, nothing too complicated, just trying to iron out some bugs in our Premortem feature. It's been a pretty regular day, nothing notable happened. Now I'm just unwinding, thinking about what I need to do tomorrow. Maybe I'll finally make some headway on that thesis.",
+    "emotions": {
+      "joy": 0.8923298120498657,
+      "neutral": 0.0782061293721199,
+      "sadness": 0.017967987805604935,
+      "disgust": 0.00424210075289011,
+      "surprise": 0.003521336941048503,
+      "anger": 0.002964855870231986,
+      "fear": 0.0007678247056901455
+    },
+    "topics": [
+      "gym",
+      "standup",
+      "anmol",
+      "alphacast",
+      "thesis"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "abae257f-c90",
+    "timestamp": "2026-05-10T21:25:00+00:00",
+    "source": "voice",
+    "text": "I woke up pretty early, got some coffee in me, and headed to the gym. Didn't do much, just a casual standup session, trying to get back into the habit. Anmol messaged me about the AlphaCast project, we need to finalize the Premortem analysis by tomorrow. Been putting it off for a while now, so I spent some time on that. Also, did some chores, mom's been on my case about cleaning my room, so I got that out of the way. Thesis is still pending, but I'm not really thinking about it right now. Just taking it one day at a time. Feeling pretty calm, got a decent amount of sleep last night, so that's a plus. Now I'm just gonna chill for a bit, maybe grab a snack, and then get back to coding.",
+    "emotions": {
+      "neutral": 0.8609762787818909,
+      "joy": 0.06377718597650528,
+      "sadness": 0.04742950201034546,
+      "surprise": 0.011918388307094574,
+      "disgust": 0.008652342483401299,
+      "anger": 0.004886615555733442,
+      "fear": 0.0023597339168190956
+    },
+    "topics": [
+      "gym",
+      "standup",
+      "anmol",
+      "alphacast",
+      "mom"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "6449316b-d47",
+    "timestamp": "2026-05-11T21:35:00+00:00",
+    "source": "text",
+    "text": "I'm so done with today, had that super long standup meeting this morning and I just couldn't focus after that. Been staring at my AlphaCast project code for hours but nothing's making sense. Anmol's been bugging me about the Premortem report and I still haven't started on it. My thesis is also looming over me, feel like I'm running out of time. I tried to take a break and hit the gym but even that didn't clear my head. Mom called and asked about my progress, just felt like I was lying to her. I've had like five cups of coffee already and I'm still exhausted, guess I'll just have to pull an all-nighter again. Ugh, I just wish I could get some sleep without worrying about all these deadlines.",
+    "emotions": {
+      "fear": 0.3799489438533783,
+      "sadness": 0.28762081265449524,
+      "anger": 0.18461182713508606,
+      "neutral": 0.06519584357738495,
+      "disgust": 0.06513841450214386,
+      "surprise": 0.015404782257974148,
+      "joy": 0.00207942514680326
+    },
+    "topics": [
+      "standup",
+      "alphacast",
+      "anmol",
+      "premortem report",
+      "thesis"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "717fd726-781",
+    "timestamp": "2026-05-12T21:09:00+00:00",
+    "source": "voice",
+    "text": "I'm so done with today, had that super long standup meeting this morning and I just couldn't focus after that. Anmol was going on and on about the AlphaCast project and I'm like, I get it, it's a big deal, but can we please just move on. I've been putting off my thesis work for way too long and now the deadlines are looming. Mom keeps calling me, asking how it's going, and honestly, I don't know what to tell her. I feel like I'm just going through the motions, you know, like that Premortem analysis we did last week, trying to anticipate all the things that could go wrong. I need to get some sleep, or maybe just go to the gym to clear my head, but all I can think about is the coffee I need to get through the rest of this day. Ugh, I just wish I could fast forward to the end of this semester already.",
+    "emotions": {
+      "neutral": 0.4005768895149231,
+      "sadness": 0.22326797246932983,
+      "fear": 0.1619761884212494,
+      "anger": 0.1035514548420906,
+      "disgust": 0.06454142183065414,
+      "surprise": 0.03782724216580391,
+      "joy": 0.008258875459432602
+    },
+    "topics": [
+      "standup",
+      "anmol",
+      "alphacast",
+      "thesis",
+      "mom"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "2ac724c2-ebe",
+    "timestamp": "2026-05-13T21:35:00+00:00",
+    "source": "text",
+    "text": "I woke up pretty early, got some coffee in me, and headed to the gym for a bit. Didn't do much, just a casual workout. After that, I had a standup meeting with Anmol to discuss our AlphaCast project, we're trying to get the Premortem analysis done by this week. Mom called me in the afternoon, just to check in, asked about my thesis progress, told her it's going alright. Been putting in some hours on the coding side of things, but nothing too out of the ordinary. Feeling pretty meh about the whole day, didn't really do anything exciting. Now I'm just waiting for the day to wind down, maybe get some more work done before sleep. Been thinking about my sleep schedule, really need to get that sorted out. Anyway, that's my day, nothing notable happened.",
+    "emotions": {
+      "sadness": 0.46908119320869446,
+      "neutral": 0.24797609448432922,
+      "joy": 0.17231623828411102,
+      "disgust": 0.06297338008880615,
+      "fear": 0.0239213015884161,
+      "surprise": 0.016681399196386337,
+      "anger": 0.007050417363643646
+    },
+    "topics": [
+      "gym",
+      "standup",
+      "anmol",
+      "mom",
+      "thesis"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "abfb17b5-4ee",
+    "timestamp": "2026-05-14T21:37:00+00:00",
+    "source": "voice",
+    "text": "I'm so done with today, had that super long standup meeting this morning and I just couldn't focus after that. Been trying to get some work done on the AlphaCast project but my mind keeps wandering. Anmol's been breathing down my neck about the Premortem report and I still haven't made any progress on it. I really need to get my thesis sorted out too, deadlines are looming. I was supposed to hit the gym after classes but I just didn't have the energy, all I wanted to do was go back to my room and sleep. Mom called me earlier and I had to put on a brave face, didn't want to worry her. Now I'm just sitting here with a cold cup of coffee, feeling completely stuck and anxious about everything.",
+    "emotions": {
+      "sadness": 0.9127137660980225,
+      "neutral": 0.036527711898088455,
+      "anger": 0.01521883811801672,
+      "surprise": 0.015022008679807186,
+      "fear": 0.012394292280077934,
+      "disgust": 0.005491024348884821,
+      "joy": 0.002632335526868701
+    },
+    "topics": [
+      "standup",
+      "alphacast",
+      "anmol",
+      "premortem",
+      "thesis"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "fc1d78b3-4fc",
+    "timestamp": "2026-05-15T21:06:00+00:00",
+    "source": "voice",
+    "text": "Ugh, I'm so done with today, had that super long standup meeting this morning and I just couldn't focus afterwards. Been staring at my AlphaCast project code for hours but nothing's making sense. Anmol's been bugging me about the Premortem report and I still haven't started on it. Mom called earlier, asking about my thesis progress and I had to lie, didn't want to worry her. I really need to get my act together, deadlines are looming. Haven't been to the gym in weeks, and all I've had to eat today is a cold cup of coffee from the cafeteria. I'm running on fumes, desperately need some sleep. Just feeling so overwhelmed, like I'm drowning in all these tasks and responsibilities.",
+    "emotions": {
+      "fear": 0.37732943892478943,
+      "sadness": 0.3733113706111908,
+      "neutral": 0.0967097282409668,
+      "anger": 0.06800972670316696,
+      "surprise": 0.05094335228204727,
+      "disgust": 0.025959068909287453,
+      "joy": 0.007737296167761087
+    },
+    "topics": [
+      "standup",
+      "alphacast",
+      "anmol",
+      "mom",
+      "thesis"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "46aaaee2-c0f",
+    "timestamp": "2026-05-16T21:03:00+00:00",
+    "source": "text",
+    "text": "I'm feeling so pumped after that gym session this evening, got my blood rushing, you know. Did a killer leg day and I'm pretty sure I'm gonna be sore tomorrow. But hey, it was worth it, I crushed that standup meeting with Anmol earlier, we're on track with the AlphaCast project. Mom's been on my case about my thesis, but I think I've got a good handle on it now, just need to Premortem the whole thing and I'll be golden. Coffee's been my best friend all day, kept me going through all that coding. I'm actually looking forward to diving back in tomorrow, feeling pretty productive. Sleep's gonna be sweet tonight, gonna crash hard and do it all again. Bring it on, final year's gonna be a breeze.",
+    "emotions": {
+      "joy": 0.3905472755432129,
+      "anger": 0.30624568462371826,
+      "neutral": 0.21079914271831512,
+      "surprise": 0.05779150500893593,
+      "sadness": 0.014346040785312653,
+      "disgust": 0.014051343314349651,
+      "fear": 0.006218962371349335
+    },
+    "topics": [
+      "gym",
+      "standup",
+      "anmol",
+      "thesis",
+      "mom"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "476fd8d9-f3b",
+    "timestamp": "2026-05-17T21:34:00+00:00",
+    "source": "voice",
+    "text": "I just got off the phone with mom and I'm feeling so much better, we talked for like an hour about everything that's been going on at home. I was getting a bit anxious about my thesis and the AlphaCast project, but hearing her voice just calmed me down. I had a pretty good morning too, went to the gym and caught up with Anmol, we were laughing about that standup comedy show we watched over the weekend. Been putting off my Premortem analysis but I think I can tackle it now, feeling pretty lifted. Might grab a coffee and get started, hopefully I can get some decent sleep tonight for a change.",
+    "emotions": {
+      "joy": 0.7005137801170349,
+      "neutral": 0.1920379400253296,
+      "fear": 0.05644875764846802,
+      "sadness": 0.02303171157836914,
+      "anger": 0.012313243933022022,
+      "disgust": 0.011015379801392555,
+      "surprise": 0.004639151971787214
+    },
+    "topics": [
+      "mom",
+      "thesis",
+      "gym",
+      "anmol",
+      "standup"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "e4fffc6c-7b7",
+    "timestamp": "2026-05-18T21:37:00+00:00",
+    "source": "text",
+    "text": "I'm so done with today, had that long standup meeting this morning and I just couldn't focus after that. Anmol was talking about the Premortem for our AlphaCast project and I was supposed to take notes but my mind kept wandering. I've been putting off my thesis work for too long and deadlines are looming. Mom called me during lunch and I had to pretend like everything's fine, didn't want to worry her. I really need to get my act together, maybe hit the gym later to clear my head. Been running on coffee fumes all day, not sure how much more of this I can take. Sleep's been messed up too, just feeling really overwhelmed right now. Okay, gotta try and calm down, make a to-do list or something, get some actual work done for once.",
+    "emotions": {
+      "anger": 0.4162953197956085,
+      "sadness": 0.262123703956604,
+      "fear": 0.18108385801315308,
+      "neutral": 0.09113872796297073,
+      "surprise": 0.020114779472351074,
+      "disgust": 0.01621238701045513,
+      "joy": 0.013031107373535633
+    },
+    "topics": [
+      "standup",
+      "anmol",
+      "alphacast",
+      "thesis",
+      "mom"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "57794c0c-c6e",
+    "timestamp": "2026-05-19T21:15:00+00:00",
+    "source": "text",
+    "text": "I'm lying here wide awake, Sunday evening and I already dread Monday. Been putting off thesis work all day, kept procrastinating by watching standup videos. Anmol called earlier, asked about the AlphaCast project, and I had to make up some progress. Mom also called, asked if I've been to the gym lately, feels like nobody thinks I can handle my stuff. Been trying to do a premortem for the project but it's all just a jumbled mess in my head. I really need to get some sleep but I'm too wired, had too much coffee earlier. Ugh, this week is gonna be a nightmare, I just know it.",
+    "emotions": {
+      "fear": 0.9523378610610962,
+      "sadness": 0.02543824352324009,
+      "neutral": 0.00783959124237299,
+      "surprise": 0.007239561062306166,
+      "disgust": 0.0031547201797366142,
+      "anger": 0.0024936713743954897,
+      "joy": 0.0014962635468691587
+    },
+    "topics": [
+      "standup",
+      "anmol",
+      "mom",
+      "gym",
+      "thesis"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "d537dae8-a50",
+    "timestamp": "2026-05-20T21:15:00+00:00",
+    "source": "voice",
+    "text": "I woke up pretty early, had a cup of coffee, and headed to the gym. Didn't do much, just a casual workout. After that, I had a standup meeting with Anmol to discuss our AlphaCast project, we're getting close to the deadline so we need to pick up the pace. I've also been putting off my thesis work, need to get back to that soon. Mom called to check in, asked about my Premortem analysis, I told her it's going okay. Been trying to get at least 7 hours of sleep each night, but it's not always easy. Rest of the day was just coding and doing some chores, nothing out of the ordinary. Feeling pretty calm, just taking things one step at a time.",
+    "emotions": {
+      "neutral": 0.7913428544998169,
+      "sadness": 0.06840813905000687,
+      "fear": 0.06763139367103577,
+      "disgust": 0.02441302314400673,
+      "joy": 0.023630192503333092,
+      "anger": 0.020778892561793327,
+      "surprise": 0.003795362077653408
+    },
+    "topics": [
+      "gym",
+      "standup",
+      "anmol",
+      "alphacast",
+      "thesis"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "97b32008-211",
+    "timestamp": "2026-05-21T21:31:00+00:00",
+    "source": "text",
+    "text": "I'm so done with today, I had that super long standup meeting this morning and I just couldn't focus after that. Been staring at my AlphaCast project code for hours but nothing's making sense. Anmol's been bugging me about the Premortem report and I still haven't started on it. My thesis is also due soon and I'm getting really anxious about it. I tried to take a break and hit the gym but even that didn't help clear my head. Mom called me earlier and I just didn't know what to tell her, I didn't want to worry her. I've had like five cups of coffee already and I'm still feeling sleepy. Deadlines are piling up and I just feel so overwhelmed right now.",
+    "emotions": {
+      "fear": 0.9536110162734985,
+      "sadness": 0.017450394108891487,
+      "surprise": 0.010112186893820763,
+      "anger": 0.008575196377933025,
+      "neutral": 0.007376696448773146,
+      "joy": 0.0017692771507427096,
+      "disgust": 0.0011052783811464906
+    },
+    "topics": [
+      "standup",
+      "alphacast",
+      "anmol",
+      "premortem",
+      "thesis"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "bec733c9-e0f",
+    "timestamp": "2026-05-22T21:18:00+00:00",
+    "source": "text",
+    "text": "I woke up pretty early, got some coffee in me, and headed to the gym. Didn't do much, just a casual workout. After that, I had a standup meeting with Anmol to discuss our AlphaCast project, we're getting close to the deadline so we need to pick up the pace. Mom called me later, just checking in, asked about my thesis and if I've started working on the Premortem analysis, which I haven't, need to get on that. Rest of the day was just coding and doing some chores, nothing out of the ordinary. I'm feeling pretty calm, not much stress, just the usual pressure to get everything done on time. Now I'm just waiting for sleep, been putting it off for a while, but I think I'll call it a night soon.",
+    "emotions": {
+      "neutral": 0.6938626170158386,
+      "sadness": 0.12233074009418488,
+      "disgust": 0.08384349942207336,
+      "joy": 0.06579762697219849,
+      "fear": 0.015956871211528778,
+      "anger": 0.011454465799033642,
+      "surprise": 0.00675417622551322
+    },
+    "topics": [
+      "gym",
+      "standup",
+      "anmol",
+      "mom",
+      "thesis"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "eaff4776-80d",
+    "timestamp": "2026-05-23T21:32:00+00:00",
+    "source": "voice",
+    "text": "I'm feeling so pumped after that gym session this evening, got my blood rushing, you know. Did a killer leg day, and now I'm all energized to tackle this AlphaCast project. Anmol and I had a standup earlier, we're on track with the Premortem analysis, so that's a relief. Mom called earlier, checking in on my thesis progress, I told her it's going great, can't wait to show her the final product. Now I'm fueled up on coffee, coding's going smoothly, and I'm hoping to get a good night's sleep tonight, feeling pretty productive. Bring it on, final year, I'm ready.",
+    "emotions": {
+      "joy": 0.8063018321990967,
+      "neutral": 0.13912972807884216,
+      "anger": 0.028489381074905396,
+      "disgust": 0.008701513521373272,
+      "surprise": 0.006980596110224724,
+      "sadness": 0.006170670501887798,
+      "fear": 0.004226204473525286
+    },
+    "topics": [
+      "gym",
+      "alphacast",
+      "anmol",
+      "standup",
+      "mom"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "19bc36f3-e08",
+    "timestamp": "2026-05-24T21:09:00+00:00",
+    "source": "text",
+    "text": "I woke up pretty early, had a cup of coffee, and headed to the gym. Didn't do much, just a casual standup session, trying to get back into the habit. After that, I met up with Anmol to discuss our AlphaCast project, we're still stuck on the Premortem analysis. I'm thinking of reaching out to mom tonight to see how she's doing, haven't spoken to her in a while. I've also been putting off working on my thesis, really need to get started on that. The day's been pretty relaxed so far, just doing some coding and chores. I'm planning to get a good night's sleep tonight, been feeling a bit tired lately. Nothing much else happening, just the usual routine.",
+    "emotions": {
+      "neutral": 0.549129843711853,
+      "joy": 0.38291722536087036,
+      "sadness": 0.03919151425361633,
+      "disgust": 0.010169776156544685,
+      "surprise": 0.009236273355782032,
+      "anger": 0.005879056174308062,
+      "fear": 0.0034762995783239603
+    },
+    "topics": [
+      "gym",
+      "standup",
+      "anmol",
+      "alphacast",
+      "mom"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "f0308e33-338",
+    "timestamp": "2026-05-25T21:42:00+00:00",
+    "source": "voice",
+    "text": "I'm lying here wide awake, thinking about Monday and all the work I have to do. My thesis is due soon and I still haven't finished the Premortem for the AlphaCast project. I tried to distract myself by watching standup comedy, but even that didn't help. Anmol called me earlier and we talked about our plans for the week, but it just made me more anxious. I was supposed to go to the gym this morning, but I overslept. Mom keeps telling me to take care of my sleep, but I just can't seem to relax. I've had like three cups of coffee already, which isn't helping. I just wish I could fast forward to the weekend again. Ugh, I have to get up in a few hours and I still haven't slept.",
+    "emotions": {
+      "fear": 0.8001715540885925,
+      "sadness": 0.14253854751586914,
+      "neutral": 0.027343768626451492,
+      "anger": 0.014776044525206089,
+      "surprise": 0.006890302523970604,
+      "disgust": 0.005742187146097422,
+      "joy": 0.002537533873692155
+    },
+    "topics": [
+      "thesis",
+      "standup",
+      "anmol",
+      "gym",
+      "mom"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "48bc544e-457",
+    "timestamp": "2026-05-26T21:50:00+00:00",
+    "source": "text",
+    "text": "I woke up pretty early, got some coffee in me, and headed to the gym. Didn't do much, just a casual workout. Afterwards, I met up with Anmol and we worked on our AlphaCast project for a bit, trying to iron out some bugs. Had a standup meeting later, discussed our progress and all that. Mom called, asked about my thesis, told her it's going alright, still got some time to finish it. Been thinking about doing a premortem for the project, see where we could've done things differently. Now I'm just chillin', thinking about calling it a day soon, get some sleep. Nothing out of the ordinary happened, just a regular day, which is kinda nice, I guess.",
+    "emotions": {
+      "neutral": 0.5390802621841431,
+      "joy": 0.38083210587501526,
+      "disgust": 0.026058107614517212,
+      "sadness": 0.02413083240389824,
+      "anger": 0.015896227210760117,
+      "surprise": 0.007550300098955631,
+      "fear": 0.006452114786952734
+    },
+    "topics": [
+      "gym",
+      "anmol",
+      "alphacast",
+      "standup",
+      "mom"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "2c9be051-bf8",
+    "timestamp": "2026-05-27T21:44:00+00:00",
+    "source": "voice",
+    "text": "I'm so done with today, had that super long standup meeting this morning and I just couldn't focus after that. Been staring at my AlphaCast project code for hours but nothing's making sense. Anmol's been bugging me about the Premortem report and I still haven't started on it. My thesis is also pending and deadlines are looming. I tried to take a break and hit the gym but even that didn't help clear my head. Mom called to check in and I just felt guilty for not being able to talk to her properly, my mind's all over the place. I've had like five cups of coffee already but I'm still feeling sleepy, guess I didn't get enough sleep last night. Ugh, just wish I could get something done for once without feeling so anxious all the time.",
+    "emotions": {
+      "sadness": 0.9636597633361816,
+      "disgust": 0.012261277064681053,
+      "neutral": 0.009774642996490002,
+      "anger": 0.0050064618699252605,
+      "fear": 0.004785080906003714,
+      "surprise": 0.003216260578483343,
+      "joy": 0.0012965312926098704
+    },
+    "topics": [
+      "standup",
+      "alphacast",
+      "anmol",
+      "premortem",
+      "thesis"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "e997e737-a45",
+    "timestamp": "2026-05-28T21:51:00+00:00",
+    "source": "voice",
+    "text": "I just got off the phone with mom and I'm feeling so much better, we talked for like an hour about home and everything. I was getting a bit stressed about my thesis and the AlphaCast project, but now it's all good. I actually went to the gym this morning and that helped clear my head too. Anmol's been bugging me to watch that new standup special, so I think I'll do that later. Been putting off the Premortem analysis for my project, but I'll get to it after I grab a coffee. Mom reminded me to get enough sleep, I've been pulling all-nighters and it's catching up. Feeling pretty lifted now, just hope it lasts till my submissions are done.",
+    "emotions": {
+      "neutral": 0.6185088753700256,
+      "joy": 0.2945345640182495,
+      "sadness": 0.046129804104566574,
+      "surprise": 0.01654379442334175,
+      "anger": 0.01172449067234993,
+      "disgust": 0.009548098780214787,
+      "fear": 0.0030103696044534445
+    },
+    "topics": [
+      "mom",
+      "home",
+      "thesis",
+      "gym",
+      "standup"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "8c6c1b43-ce3",
+    "timestamp": "2026-05-29T21:17:00+00:00",
+    "source": "voice",
+    "text": "Ugh, I'm so done with today. I stayed up till 3 am working on the AlphaCast project and now I'm running on coffee fumes. I skipped gym this morning, didn't even have time for a standup with Anmol. Mom's been calling all day, asking about my thesis progress, like I haven't been stressing about it enough already. We had a Premortem meeting this afternoon and it just felt like everyone's piling on, you know? I just want to sleep for a week. I'm so exhausted, my brain's mush. Can't even think straight anymore. Coffee's not even helping at this point, just making my hands shake. I just want to submit this project and be done with it. Is that too much to ask?",
+    "emotions": {
+      "sadness": 0.41085314750671387,
+      "disgust": 0.37834805250167847,
+      "neutral": 0.107620969414711,
+      "anger": 0.04977555572986603,
+      "fear": 0.034388042986392975,
+      "surprise": 0.01695157028734684,
+      "joy": 0.002062577987089753
+    },
+    "topics": [
+      "alphacast project",
+      "gym",
+      "anmol",
+      "mom",
+      "thesis"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "e34c444c-3a8",
+    "timestamp": "2026-05-30T21:03:00+00:00",
+    "source": "text",
+    "text": "I woke up pretty early, got some coffee in me, and headed to the gym for a bit. Didn't do much, just a casual standup session, nothing too intense. Anmol was there, we chatted a bit about our thesis progress, or lack thereof. I've been putting it off, but I really need to get back to it. My mom called, asking about my AlphaCast project, I told her it's going okay, just trying to wrap up the Premortem analysis. I've got a decent amount of work left, but it's manageable. After the gym, I just did some chores, laundry, that kind of thing. Now I'm just relaxing, trying to get some rest before I dive back into coding later. Been feeling pretty meh about sleep lately, so hopefully, I can get a decent night's rest tonight.",
+    "emotions": {
+      "neutral": 0.7581327557563782,
+      "joy": 0.16490362584590912,
+      "sadness": 0.037492863833904266,
+      "disgust": 0.0168338343501091,
+      "surprise": 0.010053621605038643,
+      "anger": 0.00854398962110281,
+      "fear": 0.004039248451590538
+    },
+    "topics": [
+      "gym",
+      "standup",
+      "anmol",
+      "thesis",
+      "mom"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "c71f645d-44c",
+    "timestamp": "2026-05-31T21:36:00+00:00",
+    "source": "text",
+    "text": "I'm so done with today, had that super long standup meeting this morning and I just couldn't focus after that. Been staring at my AlphaCast project code for hours but nothing's making sense. Anmol's been bugging me about the Premortem report and I still haven't started on it. Mom called earlier and I had to pretend like everything's fine, didn't want to worry her about my thesis deadlines. I really need to get my act together, been running on coffee fumes all day. Didn't even get to hit the gym like I planned, just feel so overwhelmed. Sleep's been crap too, been lying awake at night thinking about all the work I need to do. Just wish I could get something done for once without feeling like I'm on the verge of a breakdown.",
+    "emotions": {
+      "sadness": 0.4954606592655182,
+      "neutral": 0.1356423944234848,
+      "fear": 0.13286657631397247,
+      "anger": 0.12739579379558563,
+      "surprise": 0.07775100320577621,
+      "disgust": 0.02134028822183609,
+      "joy": 0.00954329315572977
+    },
+    "topics": [
+      "standup",
+      "alphacast",
+      "anmol",
+      "mom",
+      "thesis"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  },
+  {
+    "id": "31284e34-ec2",
+    "timestamp": "2026-06-01T21:18:00+00:00",
+    "source": "text",
+    "text": "I'm so done with today, stayed up till 3 am working on the AlphaCast project and now I'm running on coffee fumes. Didn't even get to hit the gym this morning, was supposed to meet Anmol for a standup but had to skip it. Mom's been calling nonstop, asking about my thesis, like I don't have enough on my plate already. We had a Premortem meeting for the project and it just felt like everyone's dumping their problems on me. I desperately need some sleep, but I know I'll be up late again tonight trying to meet the deadline. Coffee's not even kicking in anymore, I'm just a zombie at this point.",
+    "emotions": {
+      "sadness": 0.8977168202400208,
+      "anger": 0.04046588018536568,
+      "neutral": 0.030861033126711845,
+      "disgust": 0.011386780068278313,
+      "fear": 0.008673331700265408,
+      "surprise": 0.007320727221667767,
+      "joy": 0.0035753734409809113
+    },
+    "topics": [
+      "alphacast",
+      "gym",
+      "anmol",
+      "mom",
+      "thesis"
+    ],
+    "quick_mood": null,
+    "synthetic": true
+  }
+]

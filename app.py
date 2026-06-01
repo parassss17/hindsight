@@ -70,8 +70,18 @@ with tab_today:
     col_a, col_b = st.columns(2)
 
     with col_a:
-        st.markdown("**🎤 Record (in-browser)**")
-        audio = st.audio_input("Tap to record your day", key="rec")
+        st.markdown("**🎤 Record / Upload voice**")
+        # Streamlit < 1.31 lacks `st.audio_input` (in-browser recording).
+        # If unavailable, fall back to a file-upload widget so the deployed
+        # app still works on older Streamlit versions.
+        if hasattr(st, "audio_input"):
+            audio = st.audio_input("Tap to record your day", key="rec")
+        else:
+            audio = st.file_uploader(
+                "Upload an audio file (wav / mp3 / m4a / ogg)",
+                type=["wav", "mp3", "m4a", "ogg", "webm"],
+                key="rec",
+            )
         rec_save = st.button("Save voice entry", type="primary",
                               use_container_width=True, disabled=audio is None)
         if rec_save and audio is not None:
